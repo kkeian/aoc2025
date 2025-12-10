@@ -1,4 +1,4 @@
--module(tests).
+-module(p2tests).
 -export([run_zero_starts/0, run_nz_starts/0, run_normalize/0]).
 -import(p2, [count_crossings/2, normalize/1]).
 
